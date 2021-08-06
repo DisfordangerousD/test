@@ -1,3 +1,28 @@
 x este es mi primer commit
 
 Este es el segundo intento commit
+
+git status 
+muestra los archivos actulizados, el branch y el commit donde estoy
+
+git log 
+muestra la bitacora de commit ( cambios en la linea de desarrollo del proyecto )
+
+git diff
+muestra la diferencia de los cambios agregados
+
+git add NOMBREdearchivo
+agregar un archivo congelado listo para hacer commit
+
+git commit -m "escribir nota del cambio realizado" 
+guarda la imagen del codigo de manera local y le asigna un hash(cadena de numeros)
+
+git push origin main 
+origin es github main es la rama principal local
+
+git clone git@github.com:DisfordangerousD/test.git
+Clona un repositorio de github
+
+
+
+
