@@ -23,6 +23,13 @@ origin es github main es la rama principal local
 git clone git@github.com:DisfordangerousD/test.git
 Clona un repositorio de github
 
+Para realizar la operacion inversa a git push origin main se comienza editando desde git hub
+guardas y haces commit,
+En linea de comandos se utiliza el comando 
+
+git pull origin main
+
+y actualiza la copia local del repositorio
 
 
 
