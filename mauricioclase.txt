@@ -36,5 +36,13 @@ git checkout aquitienequeirunhash
 (hasheslacadenadecaracteresqueidentificanuncommitesunico)
 es para cambiar de commit entre una version actual y una pasada o al reves
 
+git checkout --all
+muestra todos los branch que existen
+
+git checkout -b NOMBREDELBRANCH
+genera un nuevo branch y se canbia al nuevo branch en una sola operacion
+
+
+
 
 
